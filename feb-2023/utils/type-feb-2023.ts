@@ -22,3 +22,6 @@ let v4: Refinement<string> = [
   (value, options) => Promise.resolve(true),
   (value) => 'hello'
 ];
+
+type ID = number | string;
+
