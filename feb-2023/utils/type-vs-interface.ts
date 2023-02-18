@@ -3,6 +3,8 @@
 //Interface is extenable
 // type not
 
+type ID = number | string;
+
 interface Animal {
   name: string
 }

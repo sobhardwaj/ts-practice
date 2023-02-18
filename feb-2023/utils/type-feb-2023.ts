@@ -23,5 +23,3 @@ let v4: Refinement<string> = [
   (value) => 'hello'
 ];
 
-type ID = number | string;
-
