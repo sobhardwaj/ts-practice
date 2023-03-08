@@ -77,3 +77,4 @@ const entity3: FieldsDef<{ foo?: string }, { extra?: string }> = {
 
 
 //add more types of field values  - objects, arrays of scalars, arrays of objects, arrays of arrays
+
