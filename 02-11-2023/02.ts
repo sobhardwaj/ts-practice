@@ -17,3 +17,5 @@ myObject.setProperty("property2", "Value 2");
 
 console.log(myObject.getProperty("property1")); // Output: Value 1
 console.log(myObject.getProperty("property2"));
+
+console.log('testt...')
